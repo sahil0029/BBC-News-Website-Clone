@@ -7,7 +7,7 @@ an excellent example of using web development tools to recreate a popular and in
 
 # Link
 
-[Click here](https://sahil0029.github.io/BBC-News-Website-Clone/) To see live demo.
+[Click here](https://sahil0029.github.io/BBC-News-Website-Clone/) to see live demo.
 
 
 # Languages Used 
